@@ -590,6 +590,7 @@ body {
 @media only screen and (max-device-width: 780px)  {
         .cantenar {
           display: block;
+          width: 95%;
            
         }
     }
